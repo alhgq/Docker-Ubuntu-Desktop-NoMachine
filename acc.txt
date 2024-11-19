@@ -1,1 +1,2 @@
-http://starshare.live:8080/live/123/123/274164.ts
+8647544413748_7536291351092_sez6alg3zm
+rtmp://vsu.okcdn.ru/input/
