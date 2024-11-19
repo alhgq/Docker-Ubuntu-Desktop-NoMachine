@@ -1,2 +1,1 @@
-8647544413748_7536291351092_sez6alg3zm
-rtmp://vsu.okcdn.ru/input/
+http://lux.killersott.com:80/live/LNX24_107/kc2bq7nc/10514.ts
